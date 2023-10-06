@@ -40,12 +40,12 @@ Earth. Our goal is to align investments with values and promote positive change 
 
 
 ## 🧩 Challanges we faced
-- Linking database to php is very heptic and time consuming. We created frontend of our login and register page and also created database in SQL but very difficult task to link them. There was a problem in the code and we  tried to resolved it.
-- Problem arise is full page of Home page is unable to be seen fully in one frame from top to bottom. We resolve it using margin-top css tag by fixing it to 750px. 
+- Linking database to php is very hectic and time consuming. We created frontend of our login and register page and also created database in SQL but it was difficult task to link them. There was a problem in the code and we  tried to resolved it.
+- Problem arise is full page of Home page is unable to be seen fully in one frame from top to bottom. We resolved it using margin-top css tag by fixing it to 750px. 
 
 🔗🕯️
 ## 🪧 How to Install & Run Project
-We provide our repository link that has codes.
+We provided our repository link that has codes.
 Use VS code to clone that repository in any of your desired folder using command.
 ```
 $ git clone 
